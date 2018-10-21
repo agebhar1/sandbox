@@ -1,0 +1,3 @@
+[submodule "github.com/payara/Payara-Examples"]
+	path = github.com/payara/Payara-Examples
+	url = https://github.com/payara/Payara-Examples.git
